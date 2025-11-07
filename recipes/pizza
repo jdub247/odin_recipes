@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"   content="width=device-width, initial-scale=1.0">
+        <title>Pizza on the Grill</title>
+    </head>
+
+    <body>
+        <a href="../index.html">Home</a>
+
+        <h1>Pizza on the Grill</h1>
+
+        <img src="../images/pizza-on-the-grill.jpeg" alt="Pizza on the Grill" width="400" height="300">
+        
+        <h2>Description</h2>
+        <p>This pizza recipe takes a little work, but it is so satisfying and filling that it's worth it!</p>
+        <h2>Ingredients</h2>
+        <ul>
+
+            <li>Italian sausage and lean ground beef</li>
+            <li>Onion and garlic</li>
+            <li>Tomato products</li>
+            <li>Sugar</li>
+            <li>Spices and seasonings</li>
+            <li>Lasagna noodles</li>
+            <li>Cheeses</li>
+            <li>Egg</li>
+        </ul>
+        <h2>Steps</h2>
+        <ol>
+            <li>Cook it.</li>
+            <li>Bake it.</li>
+            <li>Mark it with a B.</li>
+            <li>Put it in the oven for baby and me!</li>
+        </ol>
+
+    </body>
+</html>
